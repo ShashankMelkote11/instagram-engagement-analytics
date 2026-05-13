@@ -41,15 +41,6 @@ It introduces a custom metric — **Engagement Quality Index (EQI)** — to capt
 
 ---
 
-## 📁 Project Structure
-
-* `notebooks/` → analysis notebook
-* `data/` → raw and processed data
-* `src/` → modular code (optional)
-* `visuals/` → plots and outputs
-
----
-
 ## 🚀 How to Run
 
 1. Upload dataset to Google Colab
