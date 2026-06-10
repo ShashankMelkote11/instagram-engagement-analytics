@@ -1,10 +1,8 @@
-# Instagram Engagement Analytics & Prediction
+# Influencer Engagement Intelligence: Behavioral Analytics & Performance Prediction
 
 ## 📌 Overview
 
-This project analyzes influencer content performance and builds a machine learning model to predict high-performing posts.
-
-It introduces a custom metric — **Engagement Quality Index (EQI)** — to capture engagement quality beyond traditional metrics like likes and engagement rate.
+Analyzed 20,944 creator accounts and 30,000+ Instagram posts to identify the strongest drivers of engagement quality and content virality.
 
 ---
 
